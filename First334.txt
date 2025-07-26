@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>StrikeScent Super Spray - Striped Bass Edition</title>
+  <style>
+    /* Reset and basic styles */
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      background: #0f1111;
+      color: #eee;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      color: #4dd0e1;
+      font-size: 3rem;
+      margin-bottom: 0.2rem;
+    }
+    h2 {
+      color: #90caf9;
+      margin-top: 0;
+    }
+    p {
+      max-width: 500px;
+      font-size: 1.2rem;
+      line-height: 1.5;
+      margin-bottom: 2rem;
+      color: #ccc;
+    }
+    a.button {
+      background-color: #4caf50;
+      color: white;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.25rem;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+    }
+    a.button:hover {
+      background-color: #388e3c;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>StrikeScent™ Super Spray</h1>
+    <h2>Striped Bass Edition</h2>
+    <p>
+      Next-level fish attractant engineered for serious striped bass anglers. Featuring the all-new Havoc Formula to maximize your catch. Available August 25.
+    </p>
+    <a href="#" class="button">Shop Coming Soon</a>
+  </main>
+</body>
+</html>
